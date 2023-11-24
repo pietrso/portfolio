@@ -1,6 +1,3 @@
-# Data Scientist
-I am a Data Scientist and AI Engineer working in tech
-
 ## Projects
 * * *
 
@@ -18,5 +15,5 @@ I am a Data Scientist and AI Engineer working in tech
 
 ## Education
 * * *
-- M.S. Data Science | University "Federico II" of Naples (_May 2023_)
-- B.S. Mathematics | University "Federico II" of Naples (_October 2020_)
+- M.S. Data Science @ University "Federico II" of Naples (_May 2023_)
+- B.S. Mathematics @ University "Federico II" of Naples (_October 2020_)
