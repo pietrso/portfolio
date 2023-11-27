@@ -8,13 +8,13 @@ The Normalized Difference Vegetation Index (NDVI), an indicator of vegetation he
 _keywords: NDVI, SAR, deep learning, conditional generative adversarial network, crop monitoring, agriculture_
 * * *
 
-### Sentiment Analysis on Tweets
+### Sentiment Analysis using Transformers
 [GitHub repo](https://github.com/pietrso/sent-analysis-transf)
 
 **Description:**
 The scope of this project is to understand how to use the Hugging Face library at a deeper level with a custom dataset. The task is a Sentiment Analysis on Airline Tweets using a DistilBert Transformer. The model has been Fine-Tuned on the dataset and the strong imbalance of the data has been tackled modifying the class weights in the loss function.
 
-_keywords: transformers, DistilBert, classification, python_
+_keywords: transformers, DistilBert, Hugging Face, classification, python_
 * * *
 
 ### Pedestrian Detection
