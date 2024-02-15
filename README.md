@@ -1,3 +1,13 @@
+# Experience
+**Data Scientist and AI Engineer @ Kineton (_June 2023 - Present_)**
+- Deployed Computer Vision models for object detection
+- Designed and developed a Recommender System application
+- keywords: python, YOLO, computer vision, recommender systems, AWS, AWS Lambda, PyTorch, c++
+  
+**Internship as Data Scientist and AI Engineer @ Vicomtech (_September 2022 - March 2023_)**
+ - Deployed DL models to improve the management of natural resources (["Estimating NDVI from SAR Images Using Conditional Generative Adversarial Networks"](https://ieeexplore.ieee.org/abstract/document/10282916))
+- keywords: GAN, python, Deep Learning, PyTorch, openCV
+
 # Portfolio
 ### ["Estimating NDVI from SAR Images Using Conditional Generative Adversarial Networks"](https://ieeexplore.ieee.org/abstract/document/10282916)
 **Abstract:**
@@ -61,16 +71,6 @@ _keywords: EDA, autoencoder, clustering_
 Football data was used in this exercise to practice with the software PowerBI.
 
 _keywords: PowerBI, business intelligence, data analysis_
-
-# Experience
-**Data Scientist and AI Engineer @ Kineton (_June 2023 - Present_)**
-- Deployed Computer Vision models for object detection
-- Designed and developed a Recommender System application
-- keywords: python, YOLO, computer vision, recommender systems, AWS, AWS Lambda, PyTorch, c++
-  
-**Internship as Data Scientist and AI Engineer @ Vicomtech (_September 2022 - March 2023_)**
- - Deployed DL models to improve the management of natural resources (["Estimating NDVI from SAR Images Using Conditional Generative Adversarial Networks"](https://ieeexplore.ieee.org/abstract/document/10282916))
-- keywords: GAN, python, Deep Learning, PyTorch, openCV
 
 
 # Education
